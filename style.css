@@ -111,12 +111,17 @@ body{
     font-size:180%;
 }
 
-#hex{
-    padding-left:16%;
-    padding-right:0%;
+#sharpShooter{
+    margin-left:6%;
 }
-#togglerHex{
-    width:50%;
+#hex{
+    padding-left:19%;
+}
+#curse{
+    padding-left:0%;
+}
+#adv{
+    padding-left:9.5%;
 }
 
 .toggler{
@@ -141,7 +146,7 @@ body{
     margin:1%;
     padding-left:2%;
     padding-right:2%;
-    width:50%;
+    width:60%;
     height:25%;
 }
 
